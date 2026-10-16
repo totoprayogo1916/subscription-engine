@@ -1,6 +1,6 @@
 # Subscription Engine (`ttpryg/subscription-engine`)
 
-[![Tests](https://github.com/totoprayogo1916/subscription-engine/actions/workflows/tests.yml/badge.svg)](https://github.com/totoprayogo1916/subscription-engine/actions)
+[![Tests](https://github.com/ttpryg/subscription-engine/actions/workflows/tests.yml/badge.svg)](https://github.com/ttpryg/subscription-engine/actions)
 [![PHP Version](https://img.shields.io/badge/PHP-8.1%2B-blue.svg)](https://www.php.net/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
